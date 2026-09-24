@@ -1399,3 +1399,10 @@ body {
     display: none;
   }
 }
+
+:root {
+  --primary-color: #0d1b2a;
+  --accent-color: #00e676;
+  --text-color: #ffffff;
+  --font-family: 'Inter', sans-serif;
+}
